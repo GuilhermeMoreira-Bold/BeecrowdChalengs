@@ -1,4 +1,9 @@
 # ninja log v5
-5	358	7304405142541682	CMakeFiles/untitled1.dir/main.cpp.obj	59193719324f64d3
+0	616	7305774414441147	CMakeFiles/untitled1.dir/BeeCrowdExercises/Beginner/BEE1008.cpp.obj	dbe2d0be752a88b1
 453	610	7304398678416185	untitled1.exe	d88235ed78438e45
-0	176	7305096066553105	build.ninja	e816a58fc1a9b3de
+18	530	7305774413611164	CMakeFiles/untitled1.dir/BeeCrowdExercises/Beginner/BEE1007.cpp.obj	e9263ed2a5a6336e
+23	645	7305774414771164	CMakeFiles/untitled1.dir/BeeCrowdExercises/Beginner/BEE1006.cpp.obj	ad62e6c623bb1f81
+9	257	7305775828046020	build.ninja	e5f1f1d0cf5028fd
+10	636	7305774414511150	CMakeFiles/untitled1.dir/BeeCrowdExercises/Beginner/BEE1009.cpp.obj	9884d059c4187b84
+14	660	7305774414941331	CMakeFiles/untitled1.dir/BeeCrowdExercises/Beginner/main.cpp.obj	ce6281f8ca9f6930
+6	640	7305774414731130	CMakeFiles/untitled1.dir/BeeCrowdExercises/Beginner/BEE1005.cpp.obj	62cfa32f77baf716

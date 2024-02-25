@@ -49,29 +49,47 @@ cmake_ninja_workdir = C$:/Users/gulhe/CLionProjects/beecrowd_chalengs/cmake-buil
 
 build cmake_object_order_depends_target_untitled1: phony || CMakeFiles/untitled1.dir
 
-build CMakeFiles/untitled1.dir/main.cpp.obj: CXX_COMPILER__untitled1_unscanned_Debug C$:/Users/gulhe/CLionProjects/beecrowd_chalengs/main.cpp || cmake_object_order_depends_target_untitled1
-  DEP_FILE = CMakeFiles\untitled1.dir\main.cpp.obj.d
+build CMakeFiles/untitled1.dir/BeeCrowdExercises/Beginner/main.cpp.obj: CXX_COMPILER__untitled1_unscanned_Debug C$:/Users/gulhe/CLionProjects/beecrowd_chalengs/BeeCrowdExercises/Beginner/main.cpp || cmake_object_order_depends_target_untitled1
+  DEP_FILE = CMakeFiles\untitled1.dir\BeeCrowdExercises\Beginner\main.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\untitled1.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled1.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled1.dir\BeeCrowdExercises\Beginner
 
-build CMakeFiles/untitled1.dir/BEE1005.cpp.obj: CXX_COMPILER__untitled1_unscanned_Debug C$:/Users/gulhe/CLionProjects/beecrowd_chalengs/BEE1005.cpp || cmake_object_order_depends_target_untitled1
-  DEP_FILE = CMakeFiles\untitled1.dir\BEE1005.cpp.obj.d
+build CMakeFiles/untitled1.dir/BeeCrowdExercises/Beginner/BEE1005.cpp.obj: CXX_COMPILER__untitled1_unscanned_Debug C$:/Users/gulhe/CLionProjects/beecrowd_chalengs/BeeCrowdExercises/Beginner/BEE1005.cpp || cmake_object_order_depends_target_untitled1
+  DEP_FILE = CMakeFiles\untitled1.dir\BeeCrowdExercises\Beginner\BEE1005.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\untitled1.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled1.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled1.dir\BeeCrowdExercises\Beginner
 
-build CMakeFiles/untitled1.dir/BEE1006.cpp.obj: CXX_COMPILER__untitled1_unscanned_Debug C$:/Users/gulhe/CLionProjects/beecrowd_chalengs/BEE1006.cpp || cmake_object_order_depends_target_untitled1
-  DEP_FILE = CMakeFiles\untitled1.dir\BEE1006.cpp.obj.d
+build CMakeFiles/untitled1.dir/BeeCrowdExercises/Beginner/BEE1006.cpp.obj: CXX_COMPILER__untitled1_unscanned_Debug C$:/Users/gulhe/CLionProjects/beecrowd_chalengs/BeeCrowdExercises/Beginner/BEE1006.cpp || cmake_object_order_depends_target_untitled1
+  DEP_FILE = CMakeFiles\untitled1.dir\BeeCrowdExercises\Beginner\BEE1006.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\untitled1.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled1.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled1.dir\BeeCrowdExercises\Beginner
 
-build CMakeFiles/untitled1.dir/BEE1007.cpp.obj: CXX_COMPILER__untitled1_unscanned_Debug C$:/Users/gulhe/CLionProjects/beecrowd_chalengs/BEE1007.cpp || cmake_object_order_depends_target_untitled1
-  DEP_FILE = CMakeFiles\untitled1.dir\BEE1007.cpp.obj.d
+build CMakeFiles/untitled1.dir/BeeCrowdExercises/Beginner/BEE1007.cpp.obj: CXX_COMPILER__untitled1_unscanned_Debug C$:/Users/gulhe/CLionProjects/beecrowd_chalengs/BeeCrowdExercises/Beginner/BEE1007.cpp || cmake_object_order_depends_target_untitled1
+  DEP_FILE = CMakeFiles\untitled1.dir\BeeCrowdExercises\Beginner\BEE1007.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\untitled1.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled1.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled1.dir\BeeCrowdExercises\Beginner
+
+build CMakeFiles/untitled1.dir/BeeCrowdExercises/Beginner/BEE1008.cpp.obj: CXX_COMPILER__untitled1_unscanned_Debug C$:/Users/gulhe/CLionProjects/beecrowd_chalengs/BeeCrowdExercises/Beginner/BEE1008.cpp || cmake_object_order_depends_target_untitled1
+  DEP_FILE = CMakeFiles\untitled1.dir\BeeCrowdExercises\Beginner\BEE1008.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled1.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled1.dir\BeeCrowdExercises\Beginner
+
+build CMakeFiles/untitled1.dir/BeeCrowdExercises/Beginner/BEE1009.cpp.obj: CXX_COMPILER__untitled1_unscanned_Debug C$:/Users/gulhe/CLionProjects/beecrowd_chalengs/BeeCrowdExercises/Beginner/BEE1009.cpp || cmake_object_order_depends_target_untitled1
+  DEP_FILE = CMakeFiles\untitled1.dir\BeeCrowdExercises\Beginner\BEE1009.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled1.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled1.dir\BeeCrowdExercises\Beginner
+
+build CMakeFiles/untitled1.dir/BeeCrowdExercises/Beginner/BEE1010.cpp.obj: CXX_COMPILER__untitled1_unscanned_Debug C$:/Users/gulhe/CLionProjects/beecrowd_chalengs/BeeCrowdExercises/Beginner/BEE1010.cpp || cmake_object_order_depends_target_untitled1
+  DEP_FILE = CMakeFiles\untitled1.dir\BeeCrowdExercises\Beginner\BEE1010.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled1.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled1.dir\BeeCrowdExercises\Beginner
 
 
 # =============================================================================
@@ -81,7 +99,7 @@ build CMakeFiles/untitled1.dir/BEE1007.cpp.obj: CXX_COMPILER__untitled1_unscanne
 #############################################
 # Link the executable untitled1.exe
 
-build untitled1.exe: CXX_EXECUTABLE_LINKER__untitled1_Debug CMakeFiles/untitled1.dir/main.cpp.obj CMakeFiles/untitled1.dir/BEE1005.cpp.obj CMakeFiles/untitled1.dir/BEE1006.cpp.obj CMakeFiles/untitled1.dir/BEE1007.cpp.obj
+build untitled1.exe: CXX_EXECUTABLE_LINKER__untitled1_Debug CMakeFiles/untitled1.dir/BeeCrowdExercises/Beginner/main.cpp.obj CMakeFiles/untitled1.dir/BeeCrowdExercises/Beginner/BEE1005.cpp.obj CMakeFiles/untitled1.dir/BeeCrowdExercises/Beginner/BEE1006.cpp.obj CMakeFiles/untitled1.dir/BeeCrowdExercises/Beginner/BEE1007.cpp.obj CMakeFiles/untitled1.dir/BeeCrowdExercises/Beginner/BEE1008.cpp.obj CMakeFiles/untitled1.dir/BeeCrowdExercises/Beginner/BEE1009.cpp.obj CMakeFiles/untitled1.dir/BeeCrowdExercises/Beginner/BEE1010.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\untitled1.dir
