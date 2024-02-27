@@ -10,4 +10,5 @@ add_executable(untitled1 BeeCrowdExercises/Beginner/main.cpp
         BeeCrowdExercises/Beginner/BEE1008.cpp
         BeeCrowdExercises/Beginner/BEE1009.cpp
         BeeCrowdExercises/Beginner/BEE1009.cpp
-        BeeCrowdExercises/Beginner/BEE1010.cpp)
+        BeeCrowdExercises/Beginner/BEE1010.cpp
+        BeeCrowdExercises/Beginner/Bee1011.cpp)
